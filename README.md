@@ -29,10 +29,8 @@ This project implements advanced image compositing techniques combining traditio
 pyramid_blending/
 ├── Proj_opt1.ipynb                          # Basic pyramid blending
 ├── Proj_ML_AutoMask.ipynb                   # AI-powered face swap
-├── Proj_ML_AutoMask_Upload.ipynb           # Upload version for Colab
-├── Project03_Option1_PyramidBlending_OPTIMIZED.ipynb
+├── Proj_ML_AutoMask_v2.ipynb                # AI-powered face swap with optimized edge smooth
 ├── test_img/                                # Sample images
-├── outputs/                                 # Generated results
 └── README.md                                # This file
 ```
 
